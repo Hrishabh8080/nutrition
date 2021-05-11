@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nutrition/static/css/main.8e0fadcf.chunk.css",
+    "main.js": "/nutrition/static/js/main.8ea70646.chunk.js",
+    "main.js.map": "/nutrition/static/js/main.8ea70646.chunk.js.map",
+    "runtime-main.js": "/nutrition/static/js/runtime-main.a1db2858.js",
+    "runtime-main.js.map": "/nutrition/static/js/runtime-main.a1db2858.js.map",
+    "static/js/2.7795bdea.chunk.js": "/nutrition/static/js/2.7795bdea.chunk.js",
+    "static/js/2.7795bdea.chunk.js.map": "/nutrition/static/js/2.7795bdea.chunk.js.map",
+    "static/js/3.4383c8c8.chunk.js": "/nutrition/static/js/3.4383c8c8.chunk.js",
+    "static/js/3.4383c8c8.chunk.js.map": "/nutrition/static/js/3.4383c8c8.chunk.js.map",
+    "index.html": "/nutrition/index.html",
+    "static/css/main.8e0fadcf.chunk.css.map": "/nutrition/static/css/main.8e0fadcf.chunk.css.map",
+    "static/js/2.7795bdea.chunk.js.LICENSE.txt": "/nutrition/static/js/2.7795bdea.chunk.js.LICENSE.txt",
+    "static/media/home.90db9c34.jpg": "/nutrition/static/media/home.90db9c34.jpg",
+    "static/media/logo.e48990d4.png": "/nutrition/static/media/logo.e48990d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1db2858.js",
+    "static/js/2.7795bdea.chunk.js",
+    "static/css/main.8e0fadcf.chunk.css",
+    "static/js/main.8ea70646.chunk.js"
+  ]
+}
